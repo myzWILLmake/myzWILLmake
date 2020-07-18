@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![stupid-blue](./stupid_blue.jpeg)
+![stupid-blue](https://github.com/myzWILLmake/myzWILLmake/blob/master/stupid_blue.jpeg?raw=true)
 
 <!--
 **myzWILLmake/myzWILLmake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
