@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![stupid-blue](./stupid_blue.jpeg)
+
 <!--
 **myzWILLmake/myzWILLmake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
